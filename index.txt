@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="es">
+
+
+<head>
+	<link rel="shortcut icon" href="1.png" type="image/x-icon">
+	<meta charset="utf-8">
+	<meta name="description" content="Pc gamer, pc gamer colombia, componentes pc colombia, como armar un pc, tiendas pc gamer, guia pc gamer,pc gamer barato, pc para juegos, componetes pc  baratos, blog pc gamer">
+	<meta name="author" content="Jonathan Buitrago">
+    <meta name="viewport" content="width=device-width, user-scalable=no,
+	initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="Diseño.css">
+  <title>Pc gamer para principiantes</title>  
+</head>
+
+
+<body>
+ 
+<div class="caja">
+
+
+  <div class="imagen"  >
+   	  <img src="1.png" alt="">
+  </div>
+	
+  
+  <div class="redes"  align="center"   >
+   <a  href="file:///C:/Users/VORT3KX/Documents/Udemy/Curso%20Diseno%20Web/html/Avance/index.html#" class="Inicio">Inicio</a>
+   <a target="_blank" href="https://twitter.com/VORTEKX_" class="Contacto">Contacto</a>
+  </div>
+
+   <section  class="post">
+       <Article>
+   	   
+
+	   <h1>PC gamer para principantes - Colombia</h1>
+
+   	   <p>Este es un pequeño blog de ayuda para aquellas personas que apenas estan comenzando en esto del Pc gamer, estos precios estan basados en tiendas colombianas   al igual que en su moneda.</p>
+
+   	   <h2>Recomendaciones</h2>
+   	   <p class="p2">Algunos componentes son de segunda mano porque de lo contrario el equipo no tendria la misma potencia que si fuera totalmente nuevo, tengan cuidado al momento de comprar componentes de segunda en especial las tarjetas de video puesto que en la mayoria de casos han sido utilizadas en mineria y estan muy desgastadas, hagan todas las pruebas y preguntas que tengan antes de comprar, el presupuesto puede variar dependiendo de los componentes que tengan o no a su disposición.</p>
+       
+       </Article>
+   </section>
+
+	
+   <section class="links">
+      <ul  > 
+		  
+		  <div class="Componentes" >
+           
+
+           <li>Partes/Componentes</li>
+		        <table class="tabla">
+			       <tr>
+			       	<th>Chasis</th>
+			       	<th>MotherBoard</th>
+			       	<th>Procesador</th>
+			       	<th>Memoria Ram</th>
+			       	<th>Tarjeta de Video</th>
+			       	<th>Fuente de poder</th>
+			       	<th>Monitor</th>
+			       </tr>
+                   
+                   <tr>
+                   	<th class="horizontal1">Nombre</th>
+                   </tr>
+
+                   <tr>
+                   	<th class="horizontal2">Lugar de compra</th>
+                   </tr>
+
+			       <tr>
+			        <td class="especificacion"><a target="_blank" href="https://www.pcbox.com/productos/aer238/caja-semitorre-aerocool-aero-500">Aerocool aero 500</a></td>
+                    <td class="especificacion"><a target="_blank" href="https://www.asus.com/us/Motherboards/M5A78L-M-PLUS-USB3/">Asus m5a78lm/plus</a></td>
+                    <td class="especificacion"><a target="_blank" href="http://products.amd.com/es-xl/search/CPU/AMD-FX-Series/AMD-FX-4-Core-Black-Edition/FX-4300/94">Amd fx 4300 3,8 ghz</a></td>
+                    <td class="especificacion"><a target="_blank" href="https://www.kingston.com/latam/hyperx/memory/fury" >kingston hyper x 8gb</a></td>
+                    <td class="especificacion"><a target="_blank" href="http://www.nvidia.es/graphics-cards/geforce/pascal/gtx-1050/">gtx 1050ti 4gb</a></td>
+                    <td class="especificacion"><a target="_blank" href="https://www.evga.com/products/product.aspx?pn=100-N1-0400-L1">evga 400w</a></td>
+                    <td class="especificacion"><a target="_blank" href="https://www.cnet.com/products/samsung-syncmaster-943nw-lcd-monitor-19-series/specs/">samsung syncmaster 943nw</a></td>
+			       </tr>
+
+
+			       <tr>
+			       	<td class="lugar">Smartgamer</td>
+			       	<td class="lugar">speed logic</td>
+			       	<td class="lugar">speed logic</td>
+			       	<td class="lugar">speed logic</td>
+			       	<td class="lugar">olx(segunda mano)</td>
+			       	<td class="lugar">smart gamer</td>
+			       	<td class="lugar">olx(segunda mano)</td>
+			       </tr>
+
+		        </table>   
+		    </div>  
+
+        
+          
+         <div class="enca">
+          <li>Tiendas</li>
+            <ul class="tiendas"> 
+        	    <li><a target="_blank" href="http://www.lina.speedlogic.com.co/" class="tienda1" >Speed Logic</a></li>
+        	    <li><a target="_blank" href="http://mrpc.com.co/lista-precios-2/" class="tienda2">Mr PC</a></li>
+        	    <li><a target="_blank" href="http://smartgamer.co/wp-content/uploads/descripciones/publico/precios.pdf" class="tienda3">Smart Gamer</a></li>
+        	    <li><a target="_blank" href="https://www.olx.com.co/nf/search/gtx%201050/-sort_price" class="tienda4">Olx</a></li>
+            </ul>
+        </div>
+
+
+		 <div>    
+             <li class=" enca">Precio</li>
+		        <ul class="total">
+			      <li><a href="#"> Total del pc gamer</a></li>
+		        </ul>
+
+		</div>
+		        
+
+      </ul>
+  </section>
+
+    
+    <hr>
+
+   
+    <footer>
+    	<p>Jonathan Buitrago 2018</p>
+    </footer>
+  
+
+</div>
+
+</body>
+</html>
+
